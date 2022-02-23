@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble petition of the Vniversity and city of Oxford lately presented to His Majestie, for a speedy accommodation of peace, between himselfe and his high court of Parliament : together with His Majesties gracious answer to the said petition.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45073</idno>
+            <idno type="STC">Wing H3581</idno>
+            <idno type="STC">ESTC R40516</idno>
+            <idno type="EEBO-CITATION">19346947</idno>
+            <idno type="OCLC">ocm 19346947</idno>
+            <idno type="VID">108738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1673:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble petition of the Vniversity and city of Oxford lately presented to His Majestie, for a speedy accommodation of peace, between himselfe and his high court of Parliament : together with His Majesties gracious answer to the said petition.</title>
+                  <author>University of Oxford.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Oxford (England)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield ;</publisher>
+                  <publisher>For Thomas Vincent,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <pubPlace>Reprinted at London :</pubPlace>
+                  <date>[1644?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108738:1" rendition="simple:additions"/>
+            <p>An Humble PETITION Of the Vniverſity and City of Oxford; lately preſented to His Majeſtie, for a ſpeedy accommodation of Peace, between Himſelfe and His High Court of Parliament.</p>
+            <p>Together with His Majeſties gracious An<g ref="char:EOLhyphen"/>ſwer to the ſaid Petition.</p>
+            <figure>
+               <figDesc>printer's device: English royal blazon, surmounted by a crown and flanked by the English lion and the Scottish unicorn</figDesc>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT.</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>Printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> and now reprinted at <hi>London</hi> for <hi>Thomas Vincent.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:108738:2"/>
+            <pb n="3" facs="tcp:108738:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>a device consisting of an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>THE Humble Petition of the Vniverſity and City of Oxford, to His Majeſtie, for a ſpeedy accommodation of Peace, with His High Court of Parliament.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your moſt ſacred Maje<g ref="char:EOLhyphen"/>ſty, we your humble Petitioners, in all duty ſhew, that ſeeing the whole kingdome ſo many yeares under the raignes of your Royall predeceſſors, bleſſed with a conſtant and continuall peace, is now overwhelmed in a moſt lamentable civill Warre, which al<g ref="char:EOLhyphen"/>wayes is deſtruc<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve to that King<g ref="char:EOLhyphen"/>dome where it rages, the honour of God being thereby de<g ref="char:EOLhyphen"/>clined, the ſtudy of good literature, for ſo many ages fa<g ref="char:EOLhyphen"/>mouſly extant in this ancient Univerſity, neglected, the ſafety of your Majeſties perſon divers times hazarded, the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth lamentably impoveriſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the ceſſation o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trade within our owne Kingdome, and commerce with forraigne Nations. Finally, by that want, the noble Cities of this Land, as London it ſelfe, and this our City of Oxford, redu<g ref="char:EOLhyphen"/>ced to great diſtreſſes, and neere approaching with the reſt of the Kingdome to inevitable ruine, unleſſe ſome ſpeedy redreſſe be put in practice; which we your humble Petitio<g ref="char:EOLhyphen"/>ners
+<pb n="4" facs="tcp:108738:3"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the care <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of your ſacred Majeſtic whom we in all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umility beſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to take into your Royall and ſerious conſideration the afore<g ref="char:EOLhyphen"/>mentioned miſeries ſurrounding the Kingdome, to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with a gracious eye upon the grievous diſtempers, which (like <hi>Hydra's</hi> heads, increaſe even by cutting off) both in the Church and Common-wealth, to ſurvay the ſtrange and horrid effects produced in civill Warres, where, not onely Chriſtians deſtroy Chriſtians, and Countreymen their fel<g ref="char:EOLhyphen"/>low countrymen, but brothers ſight againſt brothers, and fathers againſt their dearly beloved children, the ſword running ſtill through the bowels of your Majeſties Sub<g ref="char:EOLhyphen"/>jects, whom as you are the father of the Countrey, your Ma<g ref="char:EOLhyphen"/>jeſty muſt needs tender with a paternall love, to behold ſtrictly the increaſing famines, devaſtations, depopulations, and ſickneſſes, which as faſt as cloudes purſue cloudes, trace the ſteps of an inteſtine warre, making hideous way by their mercileſſe effects, to the ruine and deſolation of Kingdomes. To ponder the afflictions and miſerable eſtate of many thouſand good Proteſtant ſubjects in your Kingdome of Ire<g ref="char:EOLhyphen"/>land, expoſed to all the barbariſme and cruely of the pertina<g ref="char:EOLhyphen"/>cious, and bloody-minded Iriſh Rebels who imboldened by the ſtill emergent diſtractions here, like uncontrolled tor<g ref="char:EOLhyphen"/>rents, run on without any conſiderable reſiſtance there in their audatious and unchriſtian villames. And laſtly, we in all humility requeſt your ſacred Majeſty to weigh the long and much lamented ſeparation betwixt your royall ſelf and your High Court of Parliament, the ſupreame Councell of this Kingdome, which in all ages hath beene the glory and ſe<g ref="char:EOLhyphen"/>curity of your famous and redoubted anceſtors: and all theſe conſiderations reduced into one contract, we doubt not but they will be with the helpe of the Almighty, moſt efficaci<g ref="char:EOLhyphen"/>ous inducements to invite and incline your gracious minde to a ſudden and ſo much deſired peace and union betwixt your Majeſty and your high Court of Parliament.</p>
+            <p>For the ſpeedy accompliſhing whereof, we moſt humbly
+<pb n="5" facs="tcp:108738:3"/>beſeech, that without any more attention to the lewd and unchriſtian counſells of thoſe ill-affected Malignants, who for their owne ſeditious and ſiniſter ends, doe all that in them lies to augment and continue the preſent diſtempers; or without further miſconceits or jealouſies of the integri<g ref="char:EOLhyphen"/>ty and well-meaning of the honourable your high Court of Parliament, that your ſacred Majeſty would graciouſly pleaſe to thinke on ſome ſpeedy courſe for the ſetling all differences betweene your Majeſty and your high Court of Parliament, which way in your wiſedome ſhall be accoun<g ref="char:EOLhyphen"/>ted moſt fit and commodious for the bringing peace once more into our dwellings; that the increaſe of honour, wealth, proſperity and plenty may be redoubled in all your Majeſties dominions; that trade and commerce both at home amongſt our ſelves, and abroad with our confederate neighbour<g ref="char:EOLhyphen"/>nations, may be renewed and augmented: that all ſchiſme and diſtraction may be taken away in the Church and Gods holy worſhip (as it ought to be) performed: that the Schooles of good learning in this Kingdome, eſpecially this famous Univerſity, may againe flouriſh and bring forth painfull Labourers, and pious Inſtructors into the Lords Vineyard: that our Brethren in <hi>Ireland</hi> may be relieved from their calamities, and that kingdome ſetled in its priſtine obedience to your Majeſty. And finally, that your ſacred perſon being by this peace ſecured from the dangers' atten<g ref="char:EOLhyphen"/>dant on war, you may be beloved and feared both at home and abroad, and outſhine the glory of your Imperiall Pro<g ref="char:EOLhyphen"/>genitors. And we, as in all duty bound, ſhall ever pray for your Majeſties proſperity and eternall felicity.</p>
+         </div>
+         <div type="answer_to_petition">
+            <pb n="6" facs="tcp:108738:4"/>
+            <head>His MAJESTIES gracious <hi>Anſwer</hi> to the <hi>Petition</hi> of the Vniverſitie and Citie of OXFORD.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have received your Petition with much joy and alacrity of mind, to underſtand that ſo ſignall a City as this is, one of the Eyes of Our Kingdome, ſhould with ſo unanimous and generall conſent, deſire the re-eſtabliſhment of peace in Our ſo much diſtracted and diſtempered Dominions: For which your requeſt, We render you Our royall thankes, and doe intimate to you, that there is no earthly bleſſing We ſo much covet, as the fruits of peace in Our Kingdomes, which have groaned ſo long under the oppreſſions and alarums of civill warre, for hundreds of yeeres not heard of, untill theſe laſt of our raigne, in this fertill Kingdome. And to let you have a full ſenſe of Our intentions concer<g ref="char:EOLhyphen"/>ning the Accommodation of Peace which you ſo earneſt<g ref="char:EOLhyphen"/>ly deſire betweene Our ſelfe and Our Parliament; you ſhall know, that Wee eſteeme nothing more deare or rela<g ref="char:EOLhyphen"/>tive to the royall Prerogative devol'vd upon Us from Our Anceſtors, then the peace and tranquility of Our ſub<g ref="char:EOLhyphen"/>jects; that bleſſed and happy peace which is the imme<g ref="char:EOLhyphen"/>diate bounty of the Almighty, the darling and delight of humanity, which by rendring the ſubject rich and wealthy, renders the Soveraigne powerfull and mighty; that peace which is the nurſe of plenty and mother of proſ<g ref="char:EOLhyphen"/>perity, which is now unfortunately fled from Us, leaving war upon Our borders; which certainly ſhall no longer con<g ref="char:EOLhyphen"/>tinue there then We can have meanes to expell it thence.
+<pb n="7" facs="tcp:108738:4"/>We have a true and equall feeling of the ſufferings of Our ſubjects, of the neglect of Gods true worſhip, the decay of good literature, the afflictions of Our Kingdome of Ireland, growne almoſt deſolate by the rapine and tyranny of the bloudy minded Rebels: And if you dare give Us credit, your ſo humble and loyall Remonſtrance of theſe grievances is not more prevalent to incite Us to an Accomodation of Peace, and conjunction with Our high Court of Parliament, then Our owne naturall inclination to the good of Our ſub<g ref="char:EOLhyphen"/>jects, and reall commiſeration of their daily afflictions and grievances.</p>
+            <p>We are not unacquainted that the power of Our Proge<g ref="char:EOLhyphen"/>nitors has been much augmented by the diligent care and vi<g ref="char:EOLhyphen"/>gilant aſſiſtance of the High Court of Parliament, and doe unfainedly wiſh that there never had been any difference be<g ref="char:EOLhyphen"/>twixt Us and Our preſent ſupreame Councell of the King<g ref="char:EOLhyphen"/>dome, Our High Court of Parliament; or at leaſt, that it had not thus long continued, nor grown up to this fearful height, this fatall and prodigious Civill war: Which certainly, We have no way neglected with Our utmoſt endeavours to ap<g ref="char:EOLhyphen"/>peaſe, nor ſhall hereafter (though We are not diffident of Our ſtrength) ceaſe to labour as much as We may with Our Ho<g ref="char:EOLhyphen"/>nour and ſafety, to bring to a ſudden period. Commerce and trafficke We well know are the nerves &amp; ſinewes that knit together the Body of Common-wealths, eſpecially this of Ours, which has arriv'd to all it's wealth and fortune by ex<g ref="char:EOLhyphen"/>porting it's native commodities, and importing forraigne: And how carefull We have ever been to preſerve it, the Kingdome can beare Us righteous witneſſe, and how indu<g ref="char:EOLhyphen"/>ſtrious Our ſtudies ſhall be to ſettle and reconfirme it, Our after endeavours ſhall give an ample teſtimony for Us. We bleed in the wounds of Our ſubjects; we ſuffer in their loſ<g ref="char:EOLhyphen"/>ſes, and are afflicted in their ſufferings. Not a man thus ſlaine on any ſide but we eſteeme as a ſon taken from Us. And that which as much as any thing elſe troubles Our thoughts, is the apparent detriment to this famous Univerſity, in the de<g ref="char:EOLhyphen"/>creaſe
+<pb n="8" facs="tcp:108738:5"/>of it's Students, out of which has flouriſhed ſo many eminent Patriots and learned Champions of Gods Goſpell: And to ſee this City, which has been ſo loyall to Us, and ſo ready to give Us entertainment, ſhould be impoveriſhed by that decreaſe; but God will provide better for you hereafter, and ſurely Our part ſhall never be wanting to gratifie you with the teſtimony of Our favour, for the loyalty and readi<g ref="char:EOLhyphen"/>neſſe We have found in you to do Us ſervice. And ſo to con<g ref="char:EOLhyphen"/>clude, we hope, none amongſt you, nor any of Our good ſub<g ref="char:EOLhyphen"/>jects but will beleeve that, ſince theſe miſeries and miſchiefs which have overwhelmed Our Provinces fall equally on Us; (but that the head is fenſible of any paint in the reſt of the members) but that We will with Our beſt abilities labour to take away the cauſe off theſe diſtractions here<g ref="char:punc">▪</g> that We may be better inabled to ſuppreſſe the lamented and bloudy Re<g ref="char:EOLhyphen"/>bellion in Ireland; and give ſpeedy reliefe to our diſtreſſed ſubjects there, who, though further of<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are as near as the Na<g ref="char:EOLhyphen"/>tives of this Kingdome to Our affections: For malignant Counſels which may deter or impeach the proceedings of a happy union betwixt Us and Our high Court of Parliament, We ſhall neither entertaine nor hearken to any ſuch adviſes, but ſeriouſly and ſuddenly ſtudy out ſome fitting meane that may attone theſe civill differences. What it ſhall be we are not yet determined of, a caſe of ſo much conſequence re<g ref="char:EOLhyphen"/>quiring mature deliberation; but whatſoever the conditions of the peace be, they ſhall be no way diſadvantagious to the liberty of the ſubject or the fundamentall Lawes of this Kingdome. And ſo requiring your prayers to Almighty God for the proſperity of Our intentions doubt not but you ſhall ſee a ſudden and faire accommodation of Peace between Us and Our High Court of Parliament.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108738:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
